@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity {
             button3.setText(correctAns-1+"");
             button4.setText(correctAns+ "");
         }
-        if(matchCounter==3){    // if three matches are completed updatee the perfomrance in sharedpreferences
+        if(matchCounter==3){    
 
             matchCounter=0;
 
