@@ -24,7 +24,7 @@ be added at the last element of the array, and all previous values will be shift
 be performance values. The getSlope method is a static method, so you won't need to create objects of the LR class to obtain slope. Just use the name of the class LR.
   For example: LR.getSlope(dataFrame) would return a slope as a double value.</li>
 
-<li><b>dataPrep</b> method generates a data-frame AKA two-dimensional array to be passed to the getSlope method.</li>
+<li><b>dataPrep</b> method generates a data-frame AKA two dimensional array to be passed to the getSlope method.</li>
 
 <li><b>getInterpretation</b> method returns a string based on the analysis of slope obtained from analysis of past six performances.</li>
 </ul>
