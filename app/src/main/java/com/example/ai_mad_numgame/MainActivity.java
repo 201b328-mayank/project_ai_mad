@@ -70,6 +70,9 @@ public class MainActivity extends AppCompatActivity {
         int correctAns = -100;
         int operand1 = random.nextInt(20);
         int operand2=random.nextInt(10);
+        if(operand2 == 0){
+            operand2 = random.nextInt(10);
+        }
         //check is operand2 is not zero; otherwise in case of division-divide by zero error will come
         String operator = operators[random.nextInt(4)];
         textView2.setText(operand1 + operator + operand2);
@@ -78,14 +81,12 @@ public class MainActivity extends AppCompatActivity {
         else if (operator.equals("-"))
                 correctAns = operand1 - operand2;
         else if (operator.equals("/")){
-            while(operand2 == 0)
-                operand2 = random.nextInt(10);
-            correctAns = operand1/operand2;
+                correctAns = operand1 / operand2;
         }
-
         else
             correctAns = operand1*operand2;
-      // Your code here, to diplay correct and incorrect options on the buttons
+
+        // Your code here, to diplay correct and incorrect options on the buttons
         correctButton = random.nextInt(4);
         if (correctButton == 0){
             button1.setText(correctAns+ "");
