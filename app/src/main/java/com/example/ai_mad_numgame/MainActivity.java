@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity {
             button3.setText(correctAns-1+"");
             button4.setText(correctAns+ "");
         }
-        if(matchCounter==3){    
+        if(matchCounter==3){
 
             matchCounter=0;
 
@@ -126,7 +126,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public int sumOfScore(){
-        //Computing the sum of score array, which has the 1 or in each index,depending on correct or incorrect answers
         int sum=0;
        // your code here
         for(int i = 0; i < score.length; i++){
