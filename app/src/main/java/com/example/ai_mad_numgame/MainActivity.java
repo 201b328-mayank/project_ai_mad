@@ -152,7 +152,7 @@ public class MainActivity extends AppCompatActivity {
         // Your code here
         slope = LR.getSlope(dataFrame);
 
-        String interpretation = "Default Interpretation";
+        String interpretation = "Start the Game";
 
         if(slope > 0 && slope <=0.5)
             interpretation = "You are slow learner";
