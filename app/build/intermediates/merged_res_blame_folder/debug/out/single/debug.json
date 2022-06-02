@@ -52,6 +52,10 @@
         "source": "/Users/mayank/Desktop/project_ai_mad/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
+        "merged": "/Users/mayank/Desktop/project_ai_mad/app/build/intermediates/merged_res/debug/drawable_icon_ai.png.flat",
+        "source": "/Users/mayank/Desktop/project_ai_mad/app/src/main/res/drawable/icon_ai.png"
+    },
+    {
         "merged": "/Users/mayank/Desktop/project_ai_mad/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "/Users/mayank/Desktop/project_ai_mad/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
     },

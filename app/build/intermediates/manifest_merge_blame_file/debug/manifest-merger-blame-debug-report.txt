@@ -18,12 +18,12 @@
 13-->[androidx.core:core:1.7.0] /Users/mayank/.gradle/caches/transforms-3/02483169c4c9e0ddffa88758188ac6f1/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
-16        android:icon="@mipmap/ic_launcher"
-16-->/Users/mayank/Desktop/project_ai_mad/app/src/main/AndroidManifest.xml:7:9-43
+16        android:icon="@drawable/icon_ai"
+16-->/Users/mayank/Desktop/project_ai_mad/app/src/main/AndroidManifest.xml:7:9-41
 17        android:label="@string/app_name"
 17-->/Users/mayank/Desktop/project_ai_mad/app/src/main/AndroidManifest.xml:8:9-41
-18        android:roundIcon="@mipmap/ic_launcher_round"
-18-->/Users/mayank/Desktop/project_ai_mad/app/src/main/AndroidManifest.xml:9:9-54
+18        android:roundIcon="@drawable/icon_ai"
+18-->/Users/mayank/Desktop/project_ai_mad/app/src/main/AndroidManifest.xml:9:9-46
 19        android:supportsRtl="true"
 19-->/Users/mayank/Desktop/project_ai_mad/app/src/main/AndroidManifest.xml:10:9-35
 20        android:testOnly="true"

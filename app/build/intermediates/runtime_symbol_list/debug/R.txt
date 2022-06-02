@@ -2475,6 +2475,7 @@ int drawable ic_mtrl_checked_circle 0x7f07006c
 int drawable ic_mtrl_chip_checked_black 0x7f07006d
 int drawable ic_mtrl_chip_checked_circle 0x7f07006e
 int drawable ic_mtrl_chip_close_circle 0x7f07006f
+int drawable icon_ai 0x7f07009d
 int drawable m3_appbar_background 0x7f070070
 int drawable m3_popupmenu_background_overlay 0x7f070071
 int drawable m3_radiobutton_ripple 0x7f070072
