@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AI_MAD_NumGame.iml" filepath="$PROJECT_DIR$/.idea/modules/AI_MAD_NumGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AI_MAD_NumGame.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AI_MAD_NumGame.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AI_MAD_NumGame.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AI_MAD_NumGame.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AI_MAD_NumGame.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AI_MAD_NumGame.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AI_MAD_NumGame.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AI_MAD_NumGame.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
